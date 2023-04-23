@@ -1,3 +1,13 @@
+## Steps to follow before start data analasys
+1. creare a problem statement 
+2. Identify the data you want to analyze 
+3. Eplore and clean the data 
+4. Analyze the data to get usefull insights 
+5. Present the data interms of report or dashboards using visulazations
+
+
+
+
 opendatasets is a Python library for downloading datasets from online sources like Kaggle and Google Drive using a simple Python command.
 
 
